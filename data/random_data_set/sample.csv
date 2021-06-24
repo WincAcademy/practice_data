@@ -1,0 +1,201 @@
+,datetime,total_amount,number_of_products,cashier,store,city,discount_card_used
+0,2013-01-11 11:58:03.773232,148.18,188,Maria Rosa,Ma,Jequitibá,False
+1,2012-08-13 18:34:01.795207,152.82,87,Carla,Mana,Jequitibá,True
+2,1993-11-26 13:46:58.156049,377.12,105,Alba,Ghotane,Pantano,True
+3,2014-03-15 16:43:26.544249,219.83,154,Juana,Ghotane,Jequitibá,True
+4,2004-09-03 02:09:01.164726,135.08,153,Dolores,Mana,Onça,False
+5,2014-06-09 05:30:28.013356,361.74,26,Mercedes,Badhyo,Pantano,False
+6,1989-09-15 09:34:33.281238,223.54,162,Manuela,Ghimere,Médici,True
+7,2006-02-15 20:07:21.330611,102.93,58,Maria Rosario,Mana,Bressane,True
+8,1994-12-25 12:15:52.892816,261.6,118,Marta,Singtan,Mônica,False
+9,1994-04-30 05:43:36.452181,158.92,118,Rosa Maria,Buhyo,Médici,False
+10,2003-05-10 15:33:00.521594,318.15,75,Manuela,Ghotane,Távora,True
+11,1983-03-03 03:41:28.659399,156.58,44,Manuela,Baidhaya,Mônica,True
+12,2015-01-19 06:32:56.988286,36.61,71,Veronica,Dhnaju,Anastácio,True
+13,1985-03-24 01:39:02.495347,386.42,171,Maria Mar,Ghotane,Brígida,True
+14,1986-05-24 13:50:49.738038,479.98,46,Josefa,Ghimere,Cataguases,False
+15,2019-08-10 06:22:13.775498,397.31,0,Andrea,Ghotane,Pantano,False
+16,2020-09-24 12:33:27.551496,62.02,22,Josefina,Ma,Távora,True
+17,2003-10-25 10:27:30.652686,389.28,149,Monica,Baidhaya,Mônica,True
+18,1998-11-19 08:27:49.749896,111.53,151,Maria Antonia,Situwala,Távora,False
+19,2006-02-13 08:43:56.553806,21.7,33,Laura,Chitrakr,Onça,False
+20,2007-03-20 07:42:22.739276,104.55,177,Josefina,Badhyo,Mônica,True
+21,1983-02-18 09:50:35.936187,458.57,200,Paula,Kewat,Jequitibá,False
+22,1990-10-07 08:24:36.858835,141.51,141,Maria Josefa,Barme,Onça,False
+23,2002-12-14 04:07:41.442383,184.38,64,Laura,Khwaonjoo,Anastácio,False
+24,1984-11-22 19:24:58.800401,239.06,137,Laura,Ma,Ostras,True
+25,2005-12-26 13:41:18.515952,94.46,73,Maria Victoria,Manjhi,Cataguases,True
+26,2001-04-20 00:54:25.832058,113.21,56,Pilar,Buhyo,Onça,False
+27,1992-04-07 17:31:52.629136,357.86,91,Nuria,Badhyo,Jequitibá,True
+28,1991-12-07 21:35:14.799858,147.54,38,Dolores,Yakkha,Pantano,True
+29,1996-07-13 09:32:58.672656,271.97,16,Margarita,Ghotane,Jequitibá,True
+30,2018-04-03 00:14:26.006430,159.96,15,Nuria,Badhyo,Parati,True
+31,2004-04-26 00:21:31.970325,138.67,48,Victoria,Manjhi,Távora,False
+32,2009-09-03 00:15:45.613896,160.29,3,Noelia,Kami,Anastácio,True
+33,1997-09-16 20:04:18.876043,165.97,24,Noelia,Situwala,Jequitibá,False
+34,1980-10-26 04:47:28.595758,167.02,166,Aurora,Badhyo,Parati,False
+35,1999-03-12 12:44:43.629172,283.5,109,Ana Maria,Dhnaju,Onça,True
+36,2012-11-14 05:20:11.135010,75.74,58,Rosa Maria,Gnawale,Pantano,False
+37,1993-08-27 16:05:04.315170,211.53,149,Raquel,Kami,Anastácio,False
+38,1985-01-08 01:32:05.576068,163.51,124,Maria Angeles,Barme,Médici,True
+39,2018-10-22 07:09:25.504000,164.78,25,Olga,Bindukar,Onça,True
+40,2020-07-30 09:45:10.071222,476.05,35,Angeles,Badhyo,Médici,True
+41,1987-12-29 05:27:46.263794,271.08,4,Juana,Baidhaya,Cataguases,False
+42,1988-10-13 09:59:19.112823,271.27,36,Emilia,Bindukar,Pantano,False
+43,2008-11-04 23:58:10.815364,117.37,139,Isabel,Sangami,Médici,False
+44,2005-12-04 09:10:09.799918,468.19,168,Silvia,Sangami,Anastácio,False
+45,1996-09-21 16:33:58.257038,460.79,112,Rosa,Ghotane,Távora,True
+46,2001-01-18 04:16:39.086519,29.85,57,Raquel,Badhyo,Mônica,True
+47,2002-03-10 14:09:51.614500,470.07,76,Luisa,Baidhaya,Jequitibá,True
+48,1987-06-03 04:07:47.970305,427.81,133,Maria Soledad,Badhyo,Onça,True
+49,2004-05-24 10:08:13.154216,144.78,120,Monica,Khwaonjoo,Cataguases,False
+50,2012-03-14 04:39:07.330986,237.88,110,Rosa Maria,Badhyo,Jequitibá,False
+51,1992-02-09 21:34:37.311864,46.08,59,Margarita,Sangami,Távora,True
+52,1995-04-09 12:54:19.192439,449.3,171,Francisca,Ghimere,Parati,False
+53,2007-09-23 09:37:12.720940,486.69,32,Maria Soledad,Upeti,Cataguases,True
+54,1983-12-28 22:14:17.090423,404.06,186,Marta,Badhyo,Brígida,True
+55,1990-11-07 22:08:39.030540,6.62,8,Pilar,Chitrakr,Bressane,True
+56,2014-12-25 20:44:11.885488,317.15,49,Dolores,Ma,Onça,False
+57,2007-05-02 10:29:13.951041,427.93,43,Eva,Yakkha,Mônica,True
+58,1987-08-07 16:03:11.495455,430.19,98,Consuelo,Sangami,Mônica,True
+59,2002-09-01 23:42:36.699873,284.22,148,Rosa Maria,Dhnaju,Távora,False
+60,2021-02-14 11:54:21.846308,36.65,160,Cristina,Kutal,Anastácio,False
+61,1987-09-16 12:43:01.072122,423.85,194,Maria Angeles,Khwaonjoo,Pantano,True
+62,2009-09-04 09:04:37.737066,313.51,171,Margarita,Gnawale,Távora,False
+63,1991-03-30 07:09:53.560782,50.25,33,Ana Isabel,Ghimere,Brígida,False
+64,2002-10-20 06:10:43.241920,308.77,49,Carolina,Ghimere,Cataguases,True
+65,1994-09-18 11:11:26.781288,330.79,134,Dolores,Sangami,Cataguases,False
+66,1980-12-23 14:54:13.029910,90.19,142,Maria Concepcion,Chitrakr,Parati,True
+67,1987-07-27 05:40:08.882060,123.1,141,Paula,Kami,Bressane,True
+68,1994-04-09 01:00:57.225581,329.83,162,Esperanza,Khwaonjoo,Bressane,False
+69,2013-09-27 14:01:02.671401,489.91,85,Eva,Singtan,Távora,True
+70,2006-05-08 07:38:31.361917,442.74,114,Maria Carmen,Ghimere,Mônica,True
+71,2009-08-11 13:28:57.487736,316.75,155,Nerea,Bindukar,Cataguases,False
+72,2020-01-21 20:53:09.377723,143.25,188,Lucia,Ghotane,Jequitibá,False
+73,1989-11-05 07:39:03.016688,412.68,70,Mercedes,Ma,Cataguases,False
+74,2004-05-21 02:44:20.944946,110.11,16,Maria Soledad,Sangami,Brígida,False
+75,2014-06-03 22:44:00.641404,207.03,170,Maria Soledad,Ma,Jequitibá,True
+76,2007-03-02 18:37:48.484409,11.98,135,Alicia,Baidhaya,Bressane,False
+77,2001-02-07 11:59:41.108461,187.29,179,Maria Mar,Situwala,Anastácio,False
+78,2017-06-21 08:15:43.689036,370.04,49,Catalina,Gnawale,Anastácio,True
+79,2019-02-06 10:02:41.983332,77.3,72,Nuria,Ghotane,Ostras,False
+80,2002-07-03 07:59:34.302708,174.67,2,Emilia,Khwaonjoo,Bressane,True
+81,1983-07-14 14:31:56.125153,444.27,118,Victoria,Badhyo,Médici,False
+82,2016-12-28 05:37:58.026737,73.72,168,Rocio,Sangami,Jequitibá,False
+83,2011-04-03 00:43:35.715051,119.01,24,Maria Soledad,Sangami,Onça,False
+84,1996-04-29 13:46:18.079822,93.39,189,Concepcion,Yakkha,Jequitibá,True
+85,1991-05-02 19:56:12.530047,166.6,155,Ines,Upeti,Onça,True
+86,1993-02-23 19:32:23.300037,252.7,136,Sonia,Badhyo,Médici,False
+87,2013-07-02 15:49:41.647879,44.08,41,Paula,Kewat,Ostras,True
+88,1980-06-19 11:33:39.960079,212.69,37,Rocio,Ghimere,Cataguases,False
+89,1990-09-06 09:06:59.426419,365.6,199,Maria Jesus,Kami,Onça,False
+90,1999-08-09 19:17:26.306938,363.71,136,Natalia,Ma,Parati,False
+91,1991-01-08 14:11:18.926667,10.63,46,Manuela,Mana,Pantano,True
+92,1996-03-05 22:55:11.241023,189.04,173,Juana,Barme,Jequitibá,True
+93,1983-01-11 08:11:05.696598,71.64,152,Ana Isabel,Buhyo,Ostras,False
+94,2012-11-11 20:24:34.273888,269.9,129,Alba,Barme,Távora,False
+95,2011-01-22 14:35:34.014024,272.89,123,Natalia,Dhnaju,Onça,False
+96,1994-09-10 15:43:28.384235,185.85,2,Josefa,Baidhaya,Brígida,False
+97,1982-04-30 01:24:51.320943,305.99,73,Emilia,Chitrakr,Távora,False
+98,1999-08-04 21:36:22.025840,35.52,173,Claudia,Badhyo,Ostras,True
+99,2004-12-17 03:35:29.100470,280.47,31,Maria Victoria,Barme,Anastácio,True
+100,2014-08-26 01:09:43.143643,220.78,136,Yolanda,Ghotane,Onça,False
+101,2016-05-13 12:32:21.028237,413.31,84,Cristina,Dhnaju,Brígida,True
+102,2021-11-21 14:32:38.926454,34.56,193,Juana,Kewat,Cataguases,True
+103,2009-12-23 17:52:18.884853,273.84,25,Luisa,Baidhaya,Jequitibá,False
+104,2012-10-14 01:04:41.145827,142.02,176,Carolina,Manjhi,Cataguases,True
+105,2005-12-18 04:22:13.950010,398.07,41,Maria Pilar,Kewat,Jequitibá,True
+106,2012-10-05 03:17:26.900596,179.56,189,Antonia,Yakkha,Anastácio,False
+107,1986-07-07 04:54:12.031398,146.91,6,Beatriz,Bindukar,Pantano,True
+108,2012-01-19 01:51:03.700144,401.47,105,Veronica,Chitrakr,Távora,False
+109,2006-10-06 20:15:11.969618,291.14,144,Isabel,Bindukar,Pantano,True
+110,1983-09-09 14:28:32.555474,73.33,43,Celia,Dhnaju,Pantano,False
+111,2011-03-11 13:20:33.223698,333.99,52,Alicia,Mana,Cataguases,True
+112,2015-07-30 15:01:57.217177,111.0,152,Angela,Khwaonjoo,Onça,True
+113,2019-09-30 17:59:48.836531,220.34,86,Andrea,Baidhaya,Jequitibá,True
+114,1984-06-09 05:02:39.969840,451.53,138,Ana Isabel,Dhnaju,Onça,False
+115,2008-11-09 02:14:28.590513,283.02,9,Beatriz,Yakkha,Brígida,False
+116,2010-12-20 13:27:56.822863,42.66,9,Lidia,Chitrakr,Onça,False
+117,2018-01-03 03:04:48.153651,498.71,85,Emilia,Upeti,Mônica,False
+118,2012-08-20 05:59:33.737138,408.6,68,Maria Rosario,Ghimere,Onça,False
+119,1998-01-30 09:23:39.747937,404.54,116,Carolina,Chitrakr,Ostras,True
+120,2004-03-30 15:12:03.153975,449.57,138,Juana,Kami,Médici,False
+121,1991-10-28 19:25:24.028942,424.76,93,Maria Isabel,Buhyo,Onça,False
+122,1981-02-12 02:30:06.955182,394.95,19,Maria,Kutal,Parati,True
+123,2006-04-26 00:46:29.074277,385.79,125,Maria Isabel,Kami,Bressane,True
+124,1983-12-30 08:26:40.719153,166.61,83,Ana Isabel,Ghimere,Ostras,False
+125,1994-01-30 08:32:31.227320,135.27,188,Josefa,Sangami,Anastácio,False
+126,1983-05-01 21:11:56.137823,36.38,164,Isabel,Kami,Parati,True
+127,1995-06-07 09:56:17.683966,459.33,43,Concepcion,Ma,Ostras,True
+128,2020-08-24 16:27:52.737996,301.65,175,Esperanza,Khwaonjoo,Mônica,True
+129,2004-06-24 02:39:07.232275,392.8,32,Josefa,Barme,Onça,False
+130,2020-09-14 14:36:57.086634,430.2,87,Eva Maria,Situwala,Médici,False
+131,2015-04-19 06:39:03.592566,431.86,54,Josefa,Upeti,Brígida,False
+132,2001-11-04 12:47:45.914270,202.06,38,Marta,Singtan,Brígida,False
+133,2010-07-01 21:13:36.716705,183.74,99,Maria Josefa,Situwala,Onça,True
+134,1993-07-28 02:27:41.746673,418.23,28,Yolanda,Gnawale,Onça,True
+135,2002-01-05 16:07:03.048797,133.66,98,Maria Mar,Yakkha,Ostras,True
+136,2003-02-10 22:31:55.707756,266.21,61,Irene,Baidhaya,Távora,False
+137,2001-10-07 12:15:02.840082,489.65,155,Susana,Kewat,Cataguases,True
+138,2008-10-25 10:37:18.893311,261.26,183,Maria Concepcion,Bindukar,Mônica,True
+139,2021-11-10 12:52:29.956266,21.45,153,Maria Mercedes,Manjhi,Távora,True
+140,2005-02-18 07:28:56.152435,284.48,63,Rosa Maria,Barme,Anastácio,True
+141,2015-05-09 04:02:51.321690,463.8,49,Alicia,Chitrakr,Parati,True
+142,1997-07-16 16:25:01.589179,69.24,190,Maria Isabel,Singtan,Cataguases,False
+143,2014-05-23 10:41:36.731166,49.62,108,Maria Antonia,Bindukar,Bressane,True
+144,2000-12-25 15:01:39.227007,227.55,22,Yolanda,Dhnaju,Parati,False
+145,1990-03-17 10:41:33.553635,76.66,38,Miriam,Kutal,Cataguases,False
+146,2020-04-21 04:58:38.351446,35.5,156,Dolores,Barme,Onça,True
+147,1986-08-20 02:06:53.640355,487.38,113,Olga,Sangami,Bressane,True
+148,1998-03-24 09:18:27.402058,42.02,197,Maria Jesus,Buhyo,Távora,True
+149,1982-02-08 18:56:47.192814,400.04,63,Maria Mar,Situwala,Brígida,True
+150,2013-12-07 04:13:40.195369,58.25,164,Maria Jesus,Kewat,Pantano,True
+151,2010-05-30 05:00:17.559976,181.9,168,Yolanda,Dhnaju,Brígida,False
+152,1986-09-14 19:02:15.772554,298.6,154,Catalina,Kutal,Brígida,False
+153,2001-07-07 20:11:15.316109,166.4,41,Maria Jose,Situwala,Bressane,True
+154,1994-06-04 03:23:43.046637,467.81,86,Miriam,Baidhaya,Ostras,False
+155,1986-12-30 23:09:07.328509,361.41,105,Maria Mercedes,Upeti,Bressane,True
+156,2021-05-19 08:17:39.063819,374.96,163,Concepcion,Chitrakr,Médici,True
+157,1998-05-02 09:53:43.336868,19.49,122,Cristina,Sangami,Onça,False
+158,2002-11-04 13:27:41.197597,380.55,66,Patricia,Mana,Ostras,True
+159,1982-09-05 07:55:43.429631,123.63,182,Maria Mar,Kami,Távora,True
+160,2009-05-17 17:15:00.343471,289.86,35,Silvia,Kutal,Bressane,True
+161,1995-05-10 05:37:12.599950,23.72,67,Maria Angeles,Ghimere,Ostras,False
+162,1987-10-09 00:46:47.172886,137.95,132,Maria Nieves,Gnawale,Mônica,False
+163,2006-01-21 18:58:14.266976,349.53,108,Cristina,Gnawale,Brígida,True
+164,2010-09-26 15:50:28.818711,484.69,199,Maria Antonia,Khwaonjoo,Ostras,False
+165,1987-11-02 13:17:34.538666,476.42,122,Angela,Dhnaju,Távora,True
+166,2010-03-09 07:39:43.507855,462.56,87,Sofia,Badhyo,Pantano,True
+167,1997-05-20 18:06:25.677567,190.2,48,Maria Antonia,Upeti,Onça,True
+168,1982-04-16 13:56:24.684076,258.09,97,Beatriz,Gnawale,Onça,True
+169,2010-12-18 23:04:35.189402,107.73,137,Maria Rosario,Ghimere,Távora,True
+170,1982-08-21 11:12:31.167581,168.98,151,Maria Antonia,Khwaonjoo,Brígida,True
+171,2007-08-12 20:48:56.936949,191.4,50,Rocio,Kewat,Cataguases,False
+172,2007-04-28 00:30:49.137363,406.96,193,Margarita,Barme,Bressane,True
+173,1993-03-01 19:27:08.949341,422.51,115,Nerea,Badhyo,Cataguases,False
+174,1990-01-13 17:41:38.413502,223.01,29,Eva Maria,Chitrakr,Parati,True
+175,2017-06-23 12:33:02.208551,318.94,52,Maria Soledad,Ma,Cataguases,True
+176,1994-10-19 17:24:48.658448,77.13,146,Veronica,Ghimere,Pantano,True
+177,1982-09-28 01:35:43.906240,481.72,132,Yolanda,Buhyo,Anastácio,True
+178,2008-06-09 00:24:02.640140,148.72,57,Marta,Mana,Ostras,True
+179,1982-04-11 10:26:15.102101,465.18,48,Maria Jose,Dhnaju,Pantano,True
+180,2004-09-11 02:54:55.622879,363.89,3,Angeles,Buhyo,Médici,True
+181,1997-05-13 07:26:58.435444,230.76,116,Maria Carmen,Kewat,Bressane,False
+182,2014-07-13 10:15:00.051466,142.94,190,Esther,Upeti,Pantano,True
+183,2011-01-09 15:05:56.290594,330.71,148,Patricia,Ghotane,Anastácio,False
+184,2012-03-26 20:43:40.678380,183.69,11,Lorena,Kewat,Anastácio,True
+185,1980-09-11 17:10:29.368810,279.03,49,Julia,Baidhaya,Pantano,True
+186,2002-12-27 05:55:16.512460,408.62,15,Angeles,Singtan,Anastácio,True
+187,1987-01-14 22:39:04.404310,165.17,100,Dolores,Baidhaya,Brígida,False
+188,2008-06-30 23:23:31.436456,87.1,69,Carmen,Ghimere,Bressane,False
+189,2019-08-24 01:57:48.619492,355.08,176,Irene,Bindukar,Anastácio,False
+190,1988-12-19 22:34:04.484431,339.89,24,Maria Jose,Chitrakr,Ostras,False
+191,1993-01-16 10:17:17.402690,365.74,177,Rosa,Situwala,Távora,False
+192,2000-05-03 00:50:59.568690,49.12,38,Andrea,Mana,Onça,True
+193,2020-10-09 14:28:59.513512,351.27,1,Carolina,Singtan,Anastácio,True
+194,1991-03-22 11:49:56.624335,407.51,81,Emilia,Chitrakr,Onça,True
+195,1980-04-19 10:15:13.315021,322.42,142,Rosa,Singtan,Bressane,False
+196,1993-12-06 05:20:45.750912,175.52,41,Mercedes,Ghimere,Ostras,False
+197,1982-03-18 01:33:04.820426,72.16,3,Maria Isabel,Sangami,Pantano,False
+198,2012-04-13 14:53:59.185450,102.67,152,Inmaculada,Kutal,Onça,False
+199,1987-06-30 14:00:51.592166,120.35,129,Emilia,Badhyo,Ostras,False
