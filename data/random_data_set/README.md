@@ -16,6 +16,10 @@ the following columns:
 You can simply paste the contents of the Python file into a Jupyter notebook
 and start using it.
 
+## Sample
+
+The `sample.csv` file contains an example of the produced output.
+
 ## Customizing
 
 If you want to work with less rows or want to constrain the datetime range this
