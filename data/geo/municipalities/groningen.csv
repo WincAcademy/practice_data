@@ -1,11 +1,11 @@
-,Gemeente,CBS-code[1],Provincie,Inwoneraantal[2],Inwoners per km²land-oppervlakte [2],Land-oppervlakte(km²)[2],Kaart,Gemiddeld huishoudinkomen (×€1000)(excl. studenten)(CBS/2017)
-88,Eemsdelta,1979.0,Groningen,45857.0,171.0,"267,89",,"33,7"
-111,Groningen,14.0,Groningen,232874.0,1255.0,"185,60",,"25,7"
-136,Het Hogeland,1966.0,Groningen,47801.0,99.0,"482,75",,
-191,Midden-Groningen,1952.0,Groningen,60797.0,217.0,"280,00",,
-215,Oldambt,1895.0,Groningen,38209.0,169.0,"226,66",,
-233,Pekela,765.0,Groningen,12196.0,249.0,"49,04",,
-270,Stadskanaal,37.0,Groningen,31686.0,269.0,"117,64",,
-299,Veendam,47.0,Groningen,27384.0,360.0,"76,00",,
-325,Westerkwartier,1969.0,Groningen,63329.0,175.0,"362,69",,
-328,Westerwolde,1950.0,Groningen,25733.0,93.0,"275,67",,
+Gemeente,CBS code,Province,Inhabitants,Surface Area in sq km
+Eemsdelta,1979.0,Groningen,45857.0,267.89
+Groningen,14.0,Groningen,232874.0,185.6
+Het Hogeland,1966.0,Groningen,47801.0,482.75
+Midden-Groningen,1952.0,Groningen,60797.0,280.0
+Oldambt,1895.0,Groningen,38209.0,226.66
+Pekela,765.0,Groningen,12196.0,49.04
+Stadskanaal,37.0,Groningen,31686.0,117.64
+Veendam,47.0,Groningen,27384.0,76.0
+Westerkwartier,1969.0,Groningen,63329.0,362.69
+Westerwolde,1950.0,Groningen,25733.0,275.67

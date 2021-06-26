@@ -1,48 +1,48 @@
-,Gemeente,CBS-code[1],Provincie,Inwoneraantal[2],Inwoners per km²land-oppervlakte [2],Land-oppervlakte(km²)[2],Kaart,Gemiddeld huishoudinkomen (×€1000)(excl. studenten)(CBS/2017)
-1,Aalsmeer,358.0,Noord-Holland,31859.0,1584.0,"20,12",,"34,0"
-6,Alkmaar,361.0,Noord-Holland,109436.0,991.0,"110,46",,"28,6"
-14,Amstelveen,362.0,Noord-Holland,91675.0,2229.0,"41,13",,"34,3"
-15,Amsterdam,363.0,Noord-Holland,872757.0,5273.0,"165,50",,"29,7"
-26,Beemster,370.0,Noord-Holland,10022.0,142.0,"70,58",,"34,3"
-31,Bergen,373.0,Noord-Holland,29839.0,302.0,"98,96",,"35,8"
-37,Beverwijk,375.0,Noord-Holland,41626.0,2262.0,"18,40",,"27,9"
-39,Blaricum,376.0,Noord-Holland,11540.0,1038.0,"11,11",,"48,8"
-40,Bloemendaal,377.0,Noord-Holland,23571.0,592.0,"39,79",,"50,8"
-58,Castricum,383.0,Noord-Holland,35986.0,724.0,"49,68",,"34,4"
-70,Den Helder,400.0,Noord-Holland,56296.0,1244.0,"45,25",,"26,4"
-73,Diemen,384.0,Noord-Holland,30780.0,2566.0,"11,99",,"29,5"
-79,Drechterland,498.0,Noord-Holland,19719.0,335.0,"58,89",,"31,0"
-85,Edam-Volendam,385.0,Noord-Holland,36197.0,666.0,"54,33",,"33,0"
-94,Enkhuizen,388.0,Noord-Holland,18591.0,1466.0,"12,68",,"28,2"
-107,Gooise Meren,1942.0,Noord-Holland,58055.0,1396.0,"41,59",,"38,2"
-114,Haarlem,392.0,Noord-Holland,162902.0,5585.0,"29,17",,"30,3"
-115,Haarlemmermeer,394.0,Noord-Holland,156002.0,790.0,"197,48",,"32,6"
-122,Heemskerk,396.0,Noord-Holland,39182.0,1433.0,"27,34",,"29,8"
-123,Heemstede,397.0,Noord-Holland,27234.0,2968.0,"9,18",,"40,5"
-126,Heerhugowaard,398.0,Noord-Holland,57587.0,1507.0,"38,21",,
-129,Heiloo,399.0,Noord-Holland,23968.0,1282.0,"18,70",,
-141,Hilversum,402.0,Noord-Holland,90831.0,1991.0,"45,61",,
-144,Hollands Kroon,1911.0,Noord-Holland,48432.0,136.0,"357,34",,
-146,Hoorn,405.0,Noord-Holland,73261.0,3595.0,"20,38",,
-149,Huizen,406.0,Noord-Holland,41273.0,2611.0,"15,81",,
-157,Koggenland,1598.0,Noord-Holland,22749.0,283.0,"80,32",,
-163,Landsmeer,415.0,Noord-Holland,11491.0,510.0,"22,53",,
-164,Langedijk,416.0,Noord-Holland,28163.0,1179.0,"23,88",,
-166,Laren,417.0,Noord-Holland,11280.0,909.0,"12,41",,
-184,Medemblik,420.0,Noord-Holland,45101.0,371.0,"121,42",,
-223,Oostzaan,431.0,Noord-Holland,9735.0,845.0,"11,53",,
-224,Opmeer,432.0,Noord-Holland,11836.0,285.0,"41,50",,
-228,Ouder-Amstel,437.0,Noord-Holland,14026.0,583.0,"24,08",,
-235,Purmerend,439.0,Noord-Holland,81249.0,3509.0,"23,15",,
-254,Schagen,441.0,Noord-Holland,46483.0,276.0,"168,25",,
-272,Stede Broec,532.0,Noord-Holland,21726.0,1498.0,"14,50",,
-280,Texel,448.0,Noord-Holland,13575.0,84.0,"162,00",,
-291,Uitgeest,450.0,Noord-Holland,13666.0,713.0,"19,16",,
-292,Uithoorn,451.0,Noord-Holland,29478.0,1625.0,"18,14",,
-303,Velsen,453.0,Noord-Holland,68648.0,1519.0,"45,20",,
-320,Waterland,852.0,Noord-Holland,17424.0,334.0,"52,11",,
-322,Weesp,457.0,Noord-Holland,19738.0,866.0,"22,79",,
-334,Wijdemeren,1696.0,Noord-Holland,24358.0,512.0,"47,60",,
-339,Wormerland,880.0,Noord-Holland,16270.0,422.0,"38,59",,
-341,Zaanstad,479.0,Noord-Holland,156794.0,2123.0,"73,87",,
-343,Zandvoort,473.0,Noord-Holland,17116.0,533.0,"32,12",,
+Gemeente,CBS code,Province,Inhabitants,Surface Area in sq km
+Aalsmeer,358.0,Noord-Holland,31859.0,20.12
+Alkmaar,361.0,Noord-Holland,109436.0,110.46
+Amstelveen,362.0,Noord-Holland,91675.0,41.13
+Amsterdam,363.0,Noord-Holland,872757.0,165.5
+Beemster,370.0,Noord-Holland,10022.0,70.58
+Bergen,373.0,Noord-Holland,29839.0,98.96
+Beverwijk,375.0,Noord-Holland,41626.0,18.4
+Blaricum,376.0,Noord-Holland,11540.0,11.11
+Bloemendaal,377.0,Noord-Holland,23571.0,39.79
+Castricum,383.0,Noord-Holland,35986.0,49.68
+Den Helder,400.0,Noord-Holland,56296.0,45.25
+Diemen,384.0,Noord-Holland,30780.0,11.99
+Drechterland,498.0,Noord-Holland,19719.0,58.89
+Edam-Volendam,385.0,Noord-Holland,36197.0,54.33
+Enkhuizen,388.0,Noord-Holland,18591.0,12.68
+Gooise Meren,1942.0,Noord-Holland,58055.0,41.59
+Haarlem,392.0,Noord-Holland,162902.0,29.17
+Haarlemmermeer,394.0,Noord-Holland,156002.0,197.48
+Heemskerk,396.0,Noord-Holland,39182.0,27.34
+Heemstede,397.0,Noord-Holland,27234.0,9.18
+Heerhugowaard,398.0,Noord-Holland,57587.0,38.21
+Heiloo,399.0,Noord-Holland,23968.0,18.7
+Hilversum,402.0,Noord-Holland,90831.0,45.61
+Hollands Kroon,1911.0,Noord-Holland,48432.0,357.34
+Hoorn,405.0,Noord-Holland,73261.0,20.38
+Huizen,406.0,Noord-Holland,41273.0,15.81
+Koggenland,1598.0,Noord-Holland,22749.0,80.32
+Landsmeer,415.0,Noord-Holland,11491.0,22.53
+Langedijk,416.0,Noord-Holland,28163.0,23.88
+Laren,417.0,Noord-Holland,11280.0,12.41
+Medemblik,420.0,Noord-Holland,45101.0,121.42
+Oostzaan,431.0,Noord-Holland,9735.0,11.53
+Opmeer,432.0,Noord-Holland,11836.0,41.5
+Ouder-Amstel,437.0,Noord-Holland,14026.0,24.08
+Purmerend,439.0,Noord-Holland,81249.0,23.15
+Schagen,441.0,Noord-Holland,46483.0,168.25
+Stede Broec,532.0,Noord-Holland,21726.0,14.5
+Texel,448.0,Noord-Holland,13575.0,162.0
+Uitgeest,450.0,Noord-Holland,13666.0,19.16
+Uithoorn,451.0,Noord-Holland,29478.0,18.14
+Velsen,453.0,Noord-Holland,68648.0,45.2
+Waterland,852.0,Noord-Holland,17424.0,52.11
+Weesp,457.0,Noord-Holland,19738.0,22.79
+Wijdemeren,1696.0,Noord-Holland,24358.0,47.6
+Wormerland,880.0,Noord-Holland,16270.0,38.59
+Zaanstad,479.0,Noord-Holland,156794.0,73.87
+Zandvoort,473.0,Noord-Holland,17116.0,32.12

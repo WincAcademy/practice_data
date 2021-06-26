@@ -1,27 +1,27 @@
-,Gemeente,CBS-code[1],Provincie,Inwoneraantal[2],Inwoners per km²land-oppervlakte [2],Land-oppervlakte(km²)[2],Kaart,Gemiddeld huishoudinkomen (×€1000)(excl. studenten)(CBS/2017)
-13,Amersfoort,307.0,Utrecht,157276.0,2512.0,"62,62",,"30,9"
-21,Baarn,308.0,Utrecht,24868.0,764.0,"32,54",,"34,7"
-54,Bunnik,312.0,Utrecht,15191.0,411.0,"36,97",,"35,2"
-55,Bunschoten,313.0,Utrecht,21866.0,720.0,"30,38",,"30,8"
-65,De Bilt,310.0,Utrecht,43137.0,652.0,"66,12",,"35,9"
-67,De Ronde Venen,736.0,Utrecht,44456.0,445.0,"99,92",,"35,8"
-87,Eemnes,317.0,Utrecht,9247.0,298.0,"31,04",,"33,7"
-148,Houten,321.0,Utrecht,50146.0,913.0,"54,94",,
-151,IJsselstein,353.0,Utrecht,34109.0,1619.0,"21,07",,
-173,Leusden,327.0,Utrecht,30401.0,519.0,"58,54",,
-178,Lopik,331.0,Utrecht,14467.0,191.0,"75,57",,
-196,Montfoort,335.0,Utrecht,13917.0,370.0,"37,57",,
-200,Nieuwegein,356.0,Utrecht,63462.0,2700.0,"23,51",,
-229,Oudewater,589.0,Utrecht,10230.0,263.0,"38,90",,
-240,Renswoude,339.0,Utrecht,5444.0,296.0,"18,40",,
-243,Rhenen,340.0,Utrecht,20119.0,478.0,"42,08",,
-267,Soest,342.0,Utrecht,46606.0,1008.0,"46,24",,
-276,Stichtse Vecht,1904.0,Utrecht,64931.0,676.0,"96,10",,
-294,Utrecht,344.0,Utrecht,357597.0,3811.0,"93,83",,
-295,Utrechtse Heuvelrug,1581.0,Utrecht,49580.0,376.0,"132,01",,
-300,Veenendaal,345.0,Utrecht,66493.0,3417.0,"19,46",,
-306,Vijfheerenlanden,1961.0,Utrecht,56811.0,388.0,"146,41",,
-335,Wijk bij Duurstede,352.0,Utrecht,23914.0,502.0,"47,62",,
-338,Woerden,632.0,Utrecht,52299.0,590.0,"88,57",,
-340,Woudenberg,351.0,Utrecht,13362.0,366.0,"36,53",,
-345,Zeist,355.0,Utrecht,64905.0,1338.0,"48,51",,
+Gemeente,CBS code,Province,Inhabitants,Surface Area in sq km
+Amersfoort,307.0,Utrecht,157276.0,62.62
+Baarn,308.0,Utrecht,24868.0,32.54
+Bunnik,312.0,Utrecht,15191.0,36.97
+Bunschoten,313.0,Utrecht,21866.0,30.38
+De Bilt,310.0,Utrecht,43137.0,66.12
+De Ronde Venen,736.0,Utrecht,44456.0,99.92
+Eemnes,317.0,Utrecht,9247.0,31.04
+Houten,321.0,Utrecht,50146.0,54.94
+IJsselstein,353.0,Utrecht,34109.0,21.07
+Leusden,327.0,Utrecht,30401.0,58.54
+Lopik,331.0,Utrecht,14467.0,75.57
+Montfoort,335.0,Utrecht,13917.0,37.57
+Nieuwegein,356.0,Utrecht,63462.0,23.51
+Oudewater,589.0,Utrecht,10230.0,38.9
+Renswoude,339.0,Utrecht,5444.0,18.4
+Rhenen,340.0,Utrecht,20119.0,42.08
+Soest,342.0,Utrecht,46606.0,46.24
+Stichtse Vecht,1904.0,Utrecht,64931.0,96.1
+Utrecht,344.0,Utrecht,357597.0,93.83
+Utrechtse Heuvelrug,1581.0,Utrecht,49580.0,132.01
+Veenendaal,345.0,Utrecht,66493.0,19.46
+Vijfheerenlanden,1961.0,Utrecht,56811.0,146.41
+Wijk bij Duurstede,352.0,Utrecht,23914.0,47.62
+Woerden,632.0,Utrecht,52299.0,88.57
+Woudenberg,351.0,Utrecht,13362.0,36.53
+Zeist,355.0,Utrecht,64905.0,48.51
