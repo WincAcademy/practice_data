@@ -1,13 +1,13 @@
-province,capital,inhabitants,inhabitants_density,commissioner,anthem,ISO 3166,website
-Groningen,Groningen,585.866,252 inw./km²,René Paas (CDA)[1],Grönnens Laid,NL-GR,www.provincie groningen.nl
-Friesland,Leeuwarden,649.957,195 inw./km²,Arno Brok (VVD)[1],De âlde Friezen,NL-FR,www.fryslan.frl
-Drenthe,Assen,493.682,188 inw./km²,Jetta Klijnsma (PvdA),Mijn Drenthe (officieus),NL-DR,www.provincie.drenthe.nl
-Overijssel,Zwolle,1.162.406,350 inw./km²,Andries Heidema (ChristenUnie),Aan de rand van Hollands gouwen,NL-OV,www.overijssel.nl
-Flevoland,Lelystad,423.021,300 inw./km²,Leen Verbeek (PvdA),Waar wij stedendoen verrijzen...,NL-FL,www.flevoland.nl
-Gelderland,Arnhem,2.085.952,420 inw./km²,John Berends (CDA)[1],Ons Gelderland,NL-GE,www.gelderland.nl
-Utrecht,Utrecht,1.354.834,912 inw./km²,Hans Oosters (PvdA)[1],Langs de Vecht end'oude Rijnstroom,NL-UT,www.provincie-utrecht.nl
-Noord-Holland,Haarlem,2.879.527,1081 inw./km²,Arthur van Dijk (VVD)[1],Ik houd van hetgroen in je wei,NL-NH,www.noord-holland.nl
-Zuid-Holland,Den Haag,3.708.696,1374 inw./km²,Jaap Smit (CDA)[1],Zuid-Hollands volkslied,NL-ZH,www.zuid-holland.nl
-Zeeland,Middelburg,383.488,215 inw./km²,Han Polman (D66),Zeeuws volkslied,NL-ZE,www.zeeland.nl
-Noord-Brabant,'s-Hertogenbosch,2.562.955,522 inw./km²,Ina Adema (VVD),geen,NL-NB,www.brabant.nl
-Limburg,Maastricht,1.117.201,520 inw./km²,Johan Remkes (VVD) (waarnemend),Limburg mijn vaderland,NL-LI,www.limburg.nl
+province,capital,inhabitants,inhabitants_density_sq_km,commissioner,anthem,ISO 3166,website
+Groningen,Groningen,585866,252,René Paas (CDA)[1],Grönnens Laid,NL-GR,www.provincie groningen.nl
+Friesland,Leeuwarden,649957,195,Arno Brok (VVD)[1],De âlde Friezen,NL-FR,www.fryslan.frl
+Drenthe,Assen,493682,188,Jetta Klijnsma (PvdA),Mijn Drenthe (officieus),NL-DR,www.provincie.drenthe.nl
+Overijssel,Zwolle,1162406,350,Andries Heidema (ChristenUnie),Aan de rand van Hollands gouwen,NL-OV,www.overijssel.nl
+Flevoland,Lelystad,423021,300,Leen Verbeek (PvdA),Waar wij stedendoen verrijzen...,NL-FL,www.flevoland.nl
+Gelderland,Arnhem,2085952,420,John Berends (CDA)[1],Ons Gelderland,NL-GE,www.gelderland.nl
+Utrecht,Utrecht,1354834,912,Hans Oosters (PvdA)[1],Langs de Vecht end'oude Rijnstroom,NL-UT,www.provincie-utrecht.nl
+Noord-Holland,Haarlem,2879527,1081,Arthur van Dijk (VVD)[1],Ik houd van hetgroen in je wei,NL-NH,www.noord-holland.nl
+Zuid-Holland,Den Haag,3708696,1374,Jaap Smit (CDA)[1],Zuid-Hollands volkslied,NL-ZH,www.zuid-holland.nl
+Zeeland,Middelburg,383488,215,Han Polman (D66),Zeeuws volkslied,NL-ZE,www.zeeland.nl
+Noord-Brabant,'s-Hertogenbosch,2562955,522,Ina Adema (VVD),geen,NL-NB,www.brabant.nl
+Limburg,Maastricht,1117201,520,Johan Remkes (VVD) (waarnemend),Limburg mijn vaderland,NL-LI,www.limburg.nl
